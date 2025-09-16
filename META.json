@@ -1,0 +1,60 @@
+{
+  "category": "e-commerce",
+  "created_date": "2025-09-15T22:48:58.742647",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "prestashop is a free and open-source e-commerce solution. PrestaShop provides free e-commerce solution",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/e-commerce/prestashop",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/e-commerce/prestashop",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.742664",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "prestashop",
+  "repository_url": "https://github.com/howtomgr/prestashop",
+  "spec_version": "2.0",
+  "subcategory": "e-commerce",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "e-commerce",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "prestashop Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/e-commerce/prestashop"
+}
